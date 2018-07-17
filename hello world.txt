@@ -1,5 +1,5 @@
-print ("Hello world")
-alert ("Hello world again")
-And hello Again!! :-))
-In new firutes!
-In stable version!
+print ("Hello world";)
+alert ("Hello world again";)
+And hello Again!! :-));
+In new firutes!;
+In stable version!;
